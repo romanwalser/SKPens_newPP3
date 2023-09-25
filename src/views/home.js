@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Bulgarian Green Newspaper</title>
-        <meta property="og:title" content="Bulgarian Green Newspaper" />
+        <title>Light House News</title>
+        <meta property="og:title" content="Light House News" />
       </Helmet>
       <a
         href="https://superhotstory.com/short/89209?stream_uuid=8e4cf582-b20b-4589-b467-5a203e3321ef&trek=1"
