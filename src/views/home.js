@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Light House News</title>
-        <meta property="og:title" content="Light House News" />
+        <title>Sofia News Agancy</title>
+        <meta property="og:title" content="Sofia News Agancy" />
       </Helmet>
       <a
         href="https://superhotstory.com/short/89209?stream_uuid=8e4cf582-b20b-4589-b467-5a203e3321ef&trek=1"
@@ -17,7 +17,7 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-link"
       >
-        <img alt="image" src="/bububgbut.jpg" className="home-image" />
+        <img alt="image" src="/bgbt.jpg" className="home-image" />
       </a>
     </div>
   )
