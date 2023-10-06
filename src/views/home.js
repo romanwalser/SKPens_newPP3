@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="Free SK Inform" />
       </Helmet>
       <a
-        href="https://superfeedstory.com/short/89588?stream_uuid=e588ec75-7989-49cf-96e5-eaa944450e1b&trek=1"
+        href="https://bestnewsarea.com/short/89588?stream_uuid=9d828ebf-8fbc-41a7-9e6e-cf12d2316daf&trek=1"
         target="_self"
         rel="noreferrer noopener"
         className="home-link"
